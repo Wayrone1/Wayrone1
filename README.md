@@ -6,7 +6,7 @@
 <img src='https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif' alt=""/>
 </div>
 <h3>:man_technologist: About Me :</h3>
-<p> I am a Full Stack Developer <img src='https://tenor.com/ru/view/love-you-stitch-cute-gif-14084337 'width="30px"/> from Russia. </p>
+<p> I am a Full Stack Developer <iframe src="https://giphy.com/embed/WRLofcgZpbbtS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stitch-dinsey-pixel-dolls-WRLofcgZpbbtS">via GIPHY</a> from Russia. </p>
 
 - :zap: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
