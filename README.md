@@ -3,7 +3,7 @@
   Hey there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src='[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw266SsdwxiDxptWt7PAPTBC&ust=1682172012528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiV9ZuRu_4CFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw10CULjIbkqB60qQAbpMVdp&ust=1682172178028000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODU-uqRu_4CFQAAAAAdAAAAABAE)' alt=""/>
+<img src='[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw266SsdwxiDxptWt7PAPTBC&ust=1682172012528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiV9ZuRu_4CFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw10CULjIbkqB60qQAbpMVdp&ust=1682172178028000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODU-uqRu_4CFQAAAAAdAAAAABAE)](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)' alt=""/>
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
@@ -32,5 +32,4 @@
   
 </p>
 <h3>:fire: My Stats :</h3>
-
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Wayrone1)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wayrone1)](https://git.io/streak-stats)
