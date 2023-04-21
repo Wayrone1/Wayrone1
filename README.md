@@ -8,11 +8,13 @@
 <h3>:man_technologist: About Me :</h3>
 <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :zap: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve freelance problems and read tech articles.
+- :zap: I work with database development and protection.
+
+
 
 <h3 align="left">Language and tools:</h3>
 <p align="left">
