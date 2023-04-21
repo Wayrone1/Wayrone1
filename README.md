@@ -6,7 +6,7 @@
 <img src='https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif' alt=""/>
 </div>
 <h3>:man_technologist: About Me :</h3>
-<p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
+<p>I am a Full Stack Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://i.pinimg.com/originals/78/b1/0f/78b10f10cabc80fa9bdbe36855161a48.gif)" width="30"> from Russia.</p>
 
 - :zap: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
