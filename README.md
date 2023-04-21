@@ -28,6 +28,8 @@
 <a href="https://boostrap.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.docker.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://graphql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="" height="40" width="50" /></a>
+  
 </p>
 <h3>:fire: My Stats :</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wayrone1&theme=graywhite&hide_border=false)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Max2288&theme=graywhite&hide_border=false)](https://git.io/streak-stats)
