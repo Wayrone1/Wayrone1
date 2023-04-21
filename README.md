@@ -3,7 +3,7 @@
   Hey there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw266SsdwxiDxptWt7PAPTBC&ust=1682172012528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiV9ZuRu_4CFQAAAAAdAAAAABAJ' alt=""/>
+<img src='[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw266SsdwxiDxptWt7PAPTBC&ust=1682172012528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiV9ZuRu_4CFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw10CULjIbkqB60qQAbpMVdp&ust=1682172178028000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODU-uqRu_4CFQAAAAAdAAAAABAE)' alt=""/>
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
@@ -33,4 +33,4 @@
 </p>
 <h3>:fire: My Stats :</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Max2288&theme=graywhite&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Wayrone1)](https://git.io/streak-stats))
