@@ -6,7 +6,7 @@
 <img src='https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif' alt=""/>
 </div>
 <h3>:man_technologist: About Me :</h3>
-<p>I am a Full Stack Developer <img src="https://tenor.com/ru/view/love-you-stitch-cute-gif-14084337" width="30"> from Russia.</p>
+<p>I am a Full Stack Developer <div class="tenor-gif-embed" data-postid="14084337" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/love-you-stitch-cute-gif-14084337">Love You Stitch Sticker</a>from <a href="https://tenor.com/search/love+you-stickers">Love You Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> from Russia.</p>
 
 - :zap: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
